@@ -1,7 +1,6 @@
 algoritmo "Autoatendimento Lanchonete"
 
 
-
 var
 
    codigo: inteiro
